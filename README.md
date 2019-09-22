@@ -1,3 +1,3 @@
 # helloworld
 Test repo for tutorial 
-Eduted read me
+Edited read me
